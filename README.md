@@ -67,7 +67,6 @@ PORT=3000<br>
 npm install<br>
 npm audit fix --force<br>
 npm start<br>
-npm run build<br>
 <br>
 
 inicializamos frontend y backend en dos terminales por<br> separado con el comando npm start.<br>
