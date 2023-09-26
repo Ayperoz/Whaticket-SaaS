@@ -65,7 +65,11 @@ REACT_APP_FACEBOOK_APP_ID=<br>
 PORT=3000<br>
 ---------------------------------<br>
 npm install<br>
+npm audit fix --force<br>
+npm start<br>
+npm run build<br>
 <br>
+
 inicializamos frontend y backend en dos terminales por<br> separado con el comando npm start.<br>
 Eso seria todo en cuanto a la instalación, ahora verificaré<br> los errores en caso de encontrarlos y los corregiré de uno en uno.
 
