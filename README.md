@@ -11,7 +11,7 @@
   postgresql-server-dev-12<br>
   <br>
 -- REQUISITOS PREVIOS --<br>
-  NodeJS V18.18.0 LTS<br>
+  NodeJS<br>
   PostgreSQL<br>
   Redis-server<br>
   PgAdmin (opcional)<br>
