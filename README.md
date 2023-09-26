@@ -5,6 +5,11 @@
   4GB Ram 3200<br>
   4 Npucleos 3.0GHz<br>
   Virtual - VMware - ESXI<br>
+  <br>
+  Soft:<br>
+  pgadmin4<br>
+  postgresql-server-dev-12<br>
+  <br>
 <br><br>
 -- REQUISITOS PREVIOS --<br>
   NodeJS V18.18.0 LTS<br>
