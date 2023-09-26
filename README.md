@@ -6,15 +6,16 @@
   4 Npucleos 3.0GHz<br>
   Virtual - VMware - ESXI<br>
   <br>
-  Soft:<br>
+  -- SOFT INSTALADO -- :<br>
   pgadmin4<br>
   postgresql-server-dev-12<br>
   <br>
 <br><br>
 -- REQUISITOS PREVIOS --<br>
   NodeJS V18.18.0 LTS<br>
-  PostgresSQL<br>
+  PostgreSQL<br>
   Redis-server<br>
+  PgAdmin (opcional)<br>
 
 -- INSTALACIÓN --<br>
 git clone https://github.com/Ayperoz/Whaticket-SaaS whaticket<br>
