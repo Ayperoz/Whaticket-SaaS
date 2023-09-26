@@ -22,7 +22,7 @@ NODE_ENV=DEVELOPMENT<br>
 BACKEND_URL=http://localhost<br>
 FRONTEND_URL=http://localhost:3000<br>
 PROXY_PORT=8080<br>
-PORT=8080<br>
+PORT=4000<br>
 
 DB_DIALECT=postgres<br>
 DB_HOST=localhost<br>
