@@ -10,13 +10,12 @@
   pgadmin4<br>
   postgresql-server-dev-12<br>
   <br>
-<br><br>
 -- REQUISITOS PREVIOS --<br>
   NodeJS V18.18.0 LTS<br>
   PostgreSQL<br>
   Redis-server<br>
   PgAdmin (opcional)<br>
-
+  <br>
 -- INSTALACIÓN --<br>
 git clone https://github.com/Ayperoz/Whaticket-SaaS whaticket<br>
 cd /whaticket/backend/<br>
